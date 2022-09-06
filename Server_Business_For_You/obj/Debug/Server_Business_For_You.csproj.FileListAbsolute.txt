@@ -1,0 +1,7 @@
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\bin\Debug\Server_Business_For_You.exe.config
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\bin\Debug\Server_Business_For_You.exe
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\bin\Debug\Server_Business_For_You.pdb
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\obj\Debug\Server_Business_For_You.csproj.AssemblyReference.cache
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\obj\Debug\Server_Business_For_You.csproj.CoreCompileInputs.cache
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\obj\Debug\Server_Business_For_You.exe
+C:\Users\rc199\Desktop\לימודים\פרויקט גמר-Business For You\Server_Business_For_You\Server_Business_For_You\obj\Debug\Server_Business_For_You.pdb
